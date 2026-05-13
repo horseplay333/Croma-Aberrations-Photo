@@ -1,2 +1,2 @@
 # Croma-Aberrations-Photo
-Chroma Abberations Photo website photos and files
+Chroma Aberrations Photo website photos and files
