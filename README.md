@@ -1,4 +1,6 @@
 # Croma-Aberrations-Photo
 Chroma Aberrations Photo website photos and files
 
-<button href="index.html">Go to Working Site</button>
+<a href="index.html">
+  <button type="button">Click Me!</button>
+</a>
